@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoxerMatcher/static/css/main.ccdeded0.css",
+    "main.js": "/BoxerMatcher/static/js/main.c243387b.js",
+    "static/js/453.d4ff7b5e.chunk.js": "/BoxerMatcher/static/js/453.d4ff7b5e.chunk.js",
+    "index.html": "/BoxerMatcher/index.html",
+    "main.ccdeded0.css.map": "/BoxerMatcher/static/css/main.ccdeded0.css.map",
+    "main.c243387b.js.map": "/BoxerMatcher/static/js/main.c243387b.js.map",
+    "453.d4ff7b5e.chunk.js.map": "/BoxerMatcher/static/js/453.d4ff7b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccdeded0.css",
+    "static/js/main.c243387b.js"
+  ]
+}
